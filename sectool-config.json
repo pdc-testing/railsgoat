@@ -1,0 +1,16 @@
+{
+  "violation-policy": [
+    {
+      "class": "web-app",
+      "rules": {
+        "dynamic-code-injection": "alert"
+      }
+    }
+  ],
+  "plugin-options": [
+    {
+      "name": "semgrep",
+      "options": {}
+    }
+  ]
+}

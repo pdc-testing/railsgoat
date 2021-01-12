@@ -49,7 +49,7 @@ def zen
 end
 
 # ruleid:ruby-eval
-eval("def zen; 42; end")
+eval("def zen; 43; end")
 
 puts zen
 
